@@ -1,3 +1,3 @@
 # Rokey_Project_1
-# 수정
-# 수정2
+
+# GitHub 프로젝트 관리
